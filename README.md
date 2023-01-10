@@ -91,11 +91,11 @@ Includes two versions:
 * The script will restart if it runs into a timeout to prevent it from failing during an internet hiccup. 
     * If you have an unstable internet connection and run into issues, try removing the ```` continue ```` statement. 
 
-##### Adding your Playlist information + Running the Script (GUI Version)
+##### Adding your Playlist information (GUI Version)
 * Double-click \spotify-playlist-updater-gui.py from the working directory
 * Input your information into the labelled text fields.
 
-### (GUI Version)
+### Running the Script (GUI Version)
 * Click 'Submit'
 
 
