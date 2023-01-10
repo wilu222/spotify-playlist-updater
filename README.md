@@ -71,7 +71,7 @@ Includes two versions:
     * Click Edit Settings. 
         * Add your domain address to the Redirected URI's field, and click Add. Make sure to Save. 
 
-##### Adding your Playlist information (Standard Version)
+### Adding your Playlist information (Standard Version)
 * Right click \spotify-playlist-updater.py from the working directory, and select "Edit with IDLE"
    * Put your Playlist Image path in place of: ```` "C:\\Users\\You\\YourWorkingDirectory\\Data\\PlaylistPhoto.jpeg" ````
    * Put your Spotify Username in place of: ```` 'username' ````
@@ -91,7 +91,7 @@ Includes two versions:
 * The script will restart if it runs into a timeout to prevent it from failing during an internet hiccup. 
     * If you have an unstable internet connection and run into issues, try removing the ```` continue ```` statement. 
 
-##### Adding your Playlist information (GUI Version)
+### Adding your Playlist information (GUI Version)
 * Double-click \spotify-playlist-updater-gui.py from the working directory
 * Input your information into the labelled text fields.
 
