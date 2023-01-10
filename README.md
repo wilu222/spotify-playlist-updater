@@ -94,7 +94,7 @@ Includes two versions:
 
 ### GUI Version
 #### Adding your Playlist informatio
-* Double-click \spotify-playlist-updater-gui.py from the working directory
+* Double-click spotify-playlist-updater-gui.py from the working directory
 * Input your information into the labelled text fields.
 
 #### Running the Script
