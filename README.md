@@ -114,9 +114,9 @@ Includes two versions:
 
 ## Authors
 
-[Aeriie](https://github.com/aeriie) on GitHub
-[mousehawk](https://github.com/mousehawk) on GitHub
-[wilu222](https://github.com/wilu222) on GitHub
+[Aeriie](https://github.com/aeriie)
+[mousehawk](https://github.com/mousehawk)
+[wilu222](https://github.com/wilu222)
 
 ## Version History
 
