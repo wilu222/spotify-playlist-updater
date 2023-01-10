@@ -71,7 +71,8 @@ Includes two versions:
     * Click Edit Settings. 
         * Add your domain address to the Redirected URI's field, and click Add. Make sure to Save. 
 
-### Adding your Playlist information (Standard Version)
+### Standard Version
+####  Adding your Playlist information
 * Right click \spotify-playlist-updater.py from the working directory, and select "Edit with IDLE"
    * Put your Playlist Image path in place of: ```` "C:\\Users\\You\\YourWorkingDirectory\\Data\\PlaylistPhoto.jpeg" ````
    * Put your Spotify Username in place of: ```` 'username' ````
@@ -84,18 +85,19 @@ Includes two versions:
 * **Save the script once your changes are made.** 
 
 
-### Running the Script (Standard Version)
+#### Running the Script (Standard Version)
 
 * Right click spotify-playlist-updater.py and Open. 
 * The script updates the Playlist every 5 minutes. You can adjust the update frequency by changing the number value for ```` schedule.every(5).minutes.do(func) ````
 * The script will restart if it runs into a timeout to prevent it from failing during an internet hiccup. 
     * If you have an unstable internet connection and run into issues, try removing the ```` continue ```` statement. 
 
-### Adding your Playlist information (GUI Version)
+### GUI Version
+#### Adding your Playlist informatio
 * Double-click \spotify-playlist-updater-gui.py from the working directory
 * Input your information into the labelled text fields.
 
-### Running the Script (GUI Version)
+#### Running the Script
 * Click 'Submit'
 
 
@@ -107,7 +109,7 @@ Includes two versions:
    * Right click spotify-playlist-updater and click Edit with IDLE
    * Click F5 to run the script
       * Let the script run. Any errors will be listed as the script encounters them. 
-* Note: the window may show "Not Responding", but the script will still run. Working on addressing this in a later update.
+* GUI version: the window may show "Not Responding", but the script will still run. Working on addressing this in a later update. The GUI version is meant to be a relatively accessible introduction point for playlist curators with limited technical background to protect their playlists. The standard  version is currently more efficient as the user does not have to manually fill text fields.
 
 
 ## Authors
